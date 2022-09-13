@@ -45,4 +45,4 @@ Insert here
 
 <h2>Copyright</h2>
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. 
-See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
+See <a href="[LICENSE.md](https://www.cameron.edu/current-students/student-services/handbook/code-of-student-conduct)">Cameron Code of Student Conduct</a>.
