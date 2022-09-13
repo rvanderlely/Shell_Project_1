@@ -1,4 +1,4 @@
-[<div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
+<div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
 <h1 align="center">Rachel's Shell Program</h1>
 <p align="center"><strong>This project is a simple shell program.</strong>
 <br>Comment</p>
@@ -28,22 +28,15 @@ This program does not yet support the command cd or help. This functionality may
 6. Follow command prompts on screen to interact with the shell program
 7. Type 'exit' to quit out of the program. 
 
-Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="https://github.com/cesarferreira" target="_blank">@CesarFerreira</a>
-
-<h2>Contributing</h2>
-Mention pull requests. Link to an example and/or put it down here
 
 <h2>Project status</h2>
-Insert here
+Project is completed for submission but may have functionality added later. 
 
 <h2>Credits</h2>
 
-- Author: <a href="https://twitter.com/r4dixx" target="_blank">Amaël Sikel</a>
-- Illustrations
-- Colors
-- Any material
+- Author: <a href="https://github.com/rvanderlely" target="_blank">Rachel Vanderlely</a>
+- Other Credits: Dr. Zhao of Cameron University 
 
 <h2>Copyright</h2>
-This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. 
+This project not licensed but is protected by Cameron Honor Code and Student Code of Conduct. 
 See <a href="https://www.cameron.edu/current-students/student-services/handbook/code-of-student-conduct">Cameron Code of Student Conduct</a>.
-](https://github.com/rvanderlely)
