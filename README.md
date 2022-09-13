@@ -1,4 +1,4 @@
-<h1 align="center">Rachel's Shell Program</h1>
+<h1 align="center">README for Rachel's Shell Program</h1>
 <p align="center"><strong>This project is a simple shell program.</strong>
 <br/>
 <div align="center"><img src="demo.gif"></img></div>
