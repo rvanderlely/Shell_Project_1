@@ -5,7 +5,7 @@
 <br/>
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
-Context and progress go here
+Project one for Operating Systems class CS3513. 
 
 <h2>Goal and requirements</h2>
 
