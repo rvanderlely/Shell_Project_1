@@ -1,5 +1,5 @@
 <h1 align="center">README </h1>
-<p align="center"><strong>Rachel's Shell Program.</strong>
+<p align="center"><strong>Rachel's Shell Program #1.</strong>
 <br/>
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
