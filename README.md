@@ -3,7 +3,7 @@
 <br/>
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
-First shell project for Operating Systems class CS3513. When run this project acts as a simple shell program.
+First shell project for Operating Systems class CS3513. This project acts as a simple shell program.
 
 <h2>Goal and requirements</h2>
 
