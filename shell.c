@@ -1,10 +1,13 @@
-/********************************************************
+/*************************************************************************
 *	Projec name: Shell Project 1
 *	Author:		Rachel Vanderlely
+*   Professor:  Dr.Zhao
 *	Date:		Sept 12, 2022
 *	Class:		CS3513
-*	Purpose:	Execute a command on a shell with up to 3 arguments. 
-***************************************************** */
+*	Purpose:	Execute a command on a shell with up to 3 optional arguments. 
+8               If command is found then it runs. If command 
+*               is not found an error message is delivered. 
+****************************************************************************/
 
 #include <stdio.h>      //for printf() and scanf()
 #include <string.h>     //strlen(), strcpy(), strcmp()
@@ -42,15 +45,14 @@ int main()
 		printf("\nRachel's Shell %s >>> ", getenv("HOME"));
 		fgets(User_Input,80,stdin);                                         //Reads in user command and any arguments
 		User_Input[strlen(User_Input)-1] = '\0';	                        //need to remove the /n from pressing enter \0 will overwrite this character. 
-		printf("\nThe users full input is: %s", User_Input);              //print it 
-		printf("\t length of the full input is: %d\n", strlen(User_Input));//when reading it is looking for \0
-
+		printf("\nThe users full input is: %s", User_Input);                //print it 
+		printf("\t length of the full input is: %d\n", strlen(User_Input)); //when reading it is looking for \0
 
 		if(strcmp(User_Input, "exit") == 0)        //If at any time the user types exit, then exit the  program.
-		{                                           //THIS IS in the infinite for loop so will work at any time. 
-			printf("\n Goodbye. \n");
-			exit(0);
-		}
+        {                                           //THIS IS in the infinite for loop so will work at any time. 
+            printf("\n Goodbye. \n");
+            exit(0);
+        }
 
 	
 		if(fork() == 0)
@@ -98,11 +100,3 @@ int main()
 exit(0);
 } //end of main
 	
-
-
-//This is still not dealing with args just yet. This is what we have to do on our way 
-//we use fgets to read then the rest same
-//if you like you can use just one save and append null char at the end of your string you may fo tht 
-//but most times you are okay without doing this because fgets is going to do that for you. That’s why you use fgets instead of gets. 
-
-//This is the second version. It is parsing the path variable and researching all paths. The first program only searched the bin directory. Other than that they are exactly the same thing. 
