@@ -18,7 +18,7 @@ This program does not yet support the command cd or help. This functionality may
 - Understand the use of creating tokens with specific deliminators.
 - Master the basics of an introductory shell program.  
 
-<h2>Installation</h2>
+<h2>Installation and Run Instructions</h2>
 
 1. Download this project as zip to the desired location on your machine
 2. Go to the folder where you saved the ZIP and right click and UNZIP the folder
