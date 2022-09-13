@@ -1,4 +1,3 @@
-<div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
 <h1 align="center">Rachel's Shell Program</h1>
 <p align="center"><strong>This project is a simple shell program.</strong>
 <br/>
