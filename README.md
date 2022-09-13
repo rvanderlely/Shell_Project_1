@@ -36,5 +36,5 @@ Project is completed for submission but may have functionality added later.
 - Other Credits: Dr. Zhao of Cameron University 
 
 <h2>Copyright</h2>
-This project not licensed but is protected by Cameron Honor Code and Student Code of Conduct. 
+This project is not licensed but is protected by Cameron Honor Code and Student Code of Conduct. 
 See <a href="https://www.cameron.edu/current-students/student-services/handbook/code-of-student-conduct">Cameron Code of Student Conduct</a>.
